@@ -1,18 +1,50 @@
-# Polar Bear
-An open source minimal theme for Jekyll, ideal for blogging.
 
-View the demo at http://diezcami.github.io/polar-bear-theme
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-## Contribute
-Please submit **open issues** for bugs or TBA features that haven't been documented yet! Feel free to submit pull requests for any existing issues.
+## A Responsive Jekyll Theme: *Feeling Responsive*
 
-## License
-The MIT License (MIT)
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
 
-Copyright (c) 2015 Camille Diez
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+And what license is *Feeling Responsive* released under? [This one][2].
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Why use this theme?
+
+Feeling Responsive is heavily customizable.
+
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
+
+**[More ›][3]**
+
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
